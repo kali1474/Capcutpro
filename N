@@ -1,1 +1,39 @@
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Get Free CapCut Pro</title>
+  <style>
+    body {font-family:sans-serif; text-align:center; padding:50px; background:#f2f9f9;}
+    h1 {color:#2c3e50;}
+    .btn {
+      display:inline-block; margin:15px; padding:15px 25px;
+      font-size:18px; border:none; border-radius:8px;
+      cursor:pointer; text-decoration:none; color:white;
+    }
+    .fb {background:#1877f2;}
+    .tg {background:#0088cc;}
+    .note {color:#d35400; margin-top:30px;}
+  </style>
+</head>
+<body>
+  <h1>🎁 Get Free CapCut Pro!</h1>
+  <p>Complete the steps below to get full access:</p>
+  <p>✅ Step 1: Like our Facebook Page</p>
+  <p>✅ Step 2: Take a Screenshot</p>
+  <p>✅ Step 3: Join our Telegram Group</p>
+  <p>✅ Step 4: Send the Screenshot to get CapCut Pro!</p>
+
+  <a href="https://www.facebook.com/renewitbd" class="btn fb" target="_blank">
+    👍 Like Facebook Page
+  </a><br/>
+  <a href="https://t.me/+fn5EJcWMn1gxYjM1" class="btn tg" target="_blank">
+    ✨ Join Telegram Group
+  </a>
+
+  <p class="note">📢 Note: Page like না করলে CapCut Pro দেওয়া হবে না!</p>
+</body>
+</html>
